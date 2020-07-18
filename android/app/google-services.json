@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934452751202",
+    "firebase_url": "https://pure-girder-238205.firebaseio.com",
+    "project_id": "pure-girder-238205",
+    "storage_bucket": "pure-girder-238205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934452751202:android:594d850a22dfcf88f69a3b",
+        "android_client_info": {
+          "package_name": "com.example.taskstodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934452751202-5lo2thtmidpt8alu7tcc6p4s6ilpkt20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskstodo",
+            "certificate_hash": "cf7046ee8c1894d832e7c8ac8e1b06e454e1c321"
+          }
+        },
+        {
+          "client_id": "934452751202-dbigidv57qnu0et3idv3sscluci9lioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTPSfL8b82i6nxryR12thXcoouKc0ukY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934452751202-dbigidv57qnu0et3idv3sscluci9lioa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
